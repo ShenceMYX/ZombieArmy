@@ -41,5 +41,6 @@ namespace ZombieArmy.Character
 		//仇恨值
 		[SerializeField] private float hatred;
 		public float Hatred => hatred;
+
 	}
 }

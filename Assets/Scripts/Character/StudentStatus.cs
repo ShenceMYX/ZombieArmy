@@ -21,7 +21,7 @@ namespace ZombieArmy.Character
         //显示侦测范围
         private void OnDrawGizmos()
         {
-            Gizmos.DrawWireSphere(transform.position, GetComponent<StudentAi>().DetectionRange);
+            Gizmos.DrawWireSphere(transform.position, GetComponent<StudentAI>().findRange);
         }
     }
 }
