@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Melee Zombie
   m_EditorClassIdentifier: 
   Atk: 2
-  maxHealth: 20
+  maxHealth: 30
   AttackInterval: 1
-  attackRange: 1
+  attackRange: 2
   hatred: 2

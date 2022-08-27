@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Melee Student
   m_EditorClassIdentifier: 
   Atk: 2
-  maxHealth: 30
+  maxHealth: 22
   AttackInterval: 1
   attackRange: 1
   hatred: 1
